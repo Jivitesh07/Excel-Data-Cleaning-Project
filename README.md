@@ -13,7 +13,7 @@ Validate numerical data
 Document data quality issues
 Create a clean dataset suitable for analysis
 
-🛠 Tools Used - Microsoft Excel
+Tools Used - Microsoft Excel
 (Google Sheets / LibreOffice Calc can also be used)
 
 Data Cleaning Steps Performed - 
