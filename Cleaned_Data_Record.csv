@@ -1,0 +1,11 @@
+﻿Order_ID,Date,Customer_Name,Product,Category,Quantity,Price,Payment_Mode,City
+1001,05-01-2023,Rahul Sharma,Laptop,Electronics,2,55000,Credit Card,Delhi
+1002,05-01-2023,Ananya Singh,Mobile Phone,Electronics,1,22000,UPI,Mumbai
+1003,07-01-2023,Unknown,Office Chair,Furniture,3,4500,Cash,Bengaluru
+1004,08-01-2023,Aman Verma,Dining Table,Furniture,5,18000,Debit Card,Chennai
+1005,09-01-2023,Neha Kapoor,Headphones,Electronics,2,25000,Credit Card,Pune
+1006,10-01-2023,Rohan Mehta,Notebook,Stationery,10,50,Cash,Ahmedabad
+1007,10-01-2023,Pooja Nair,Pen,Stationery,20,10,Cash,Unknown
+1008,12-01-2023,Karan Malhotra,Laptop,Electronics,1,56000,UPI,Delhi
+1009,12-01-2023,Karan Malhotra,Laptop,Electronics,1,56000,UPI,Delhi
+1010,12-01-2023,Unknown,Printer,Electronics,1,12000,Debit Card,Jaipur
